@@ -1,6 +1,6 @@
 # Retail Sales Dashboard (Power BI)
 
-Dashboard interaktif 2 halaman yang memvisualisasikan data transaksi UK online retail (~540K baris, Des 2010 – Des 2011), sebagai lanjutan dari [analisis SQL](../retail-sql-project) sebelumnya — kali ini dengan fokus pada storytelling visual untuk stakeholder non-teknis.
+Dashboard interaktif 2 halaman yang memvisualisasikan data transaksi UK online retail (~540K baris, Des 2010 – Des 2011), sebagai lanjutan dari [analisis SQL](https://github.com/MRMaulana461/retail-sales-sql-analysishttps://github.com/MRMaulana461/retail-sales-sql-analysis) sebelumnya — kali ini dengan fokus pada storytelling visual untuk stakeholder non-teknis.
 
 ## Ringkasan
 
