@@ -28,7 +28,7 @@ Membangun dashboard Power BI 2 halaman (Overview & Customer Analysis) dari data 
 
 ## Halaman 2 — Customer & Geographic Analysis
 
-![Customer Analysis](customer-analysis.png)
+![Customer Analysis](https://github.com/MRMaulana461/retail-sales-powerbi-dashboard/blob/main/Customer-Analysis.png)
 
 **Isi:** Top 20 customer berdasarkan revenue, dan breakdown revenue per negara.
 
