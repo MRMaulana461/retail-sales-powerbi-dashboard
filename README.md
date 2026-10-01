@@ -15,7 +15,7 @@ Membangun dashboard Power BI 2 halaman (Overview & Customer Analysis) dari data 
 
 ## Halaman 1 — Overview
 
-![Overview](screenshots/overview.png)
+![Overview](overview.png)
 
 **Isi:** KPI card (Total Revenue, Total Orders), tren revenue bulanan, dan top 20 produk terlaris.
 
@@ -28,7 +28,7 @@ Membangun dashboard Power BI 2 halaman (Overview & Customer Analysis) dari data 
 
 ## Halaman 2 — Customer & Geographic Analysis
 
-![Customer Analysis](screenshots/customer-analysis.png)
+![Customer Analysis](customer-analysis.png)
 
 **Isi:** Top 20 customer berdasarkan revenue, dan breakdown revenue per negara.
 
