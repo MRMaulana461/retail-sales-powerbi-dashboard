@@ -50,7 +50,3 @@ Menggabungkan temuan dari kedua project (SQL dan Power BI) menghasilkan gambaran
 1. Download file `.pbix` di repo ini
 2. Buka dengan [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads) (gratis)
 3. Data source menggunakan CSV lokal — jika ingin reproduce, download dataset dari [UCI Online Retail](https://archive.ics.uci.edu/dataset/352/online-retail) dan sesuaikan path data source di Power Query
-
-## Project Terkait
-
-- [Retail Sales Analysis with SQL](../retail-sql-project) — analisis mendalam menggunakan SQL (CTE, window functions) yang menjadi dasar project ini
