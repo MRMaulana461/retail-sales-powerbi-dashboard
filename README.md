@@ -15,7 +15,7 @@ Membangun dashboard Power BI 2 halaman (Overview & Customer Analysis) dari data 
 
 ## Halaman 1 — Overview
 
-![Overview](overview.png)
+![Overview](https://github.com/MRMaulana461/retail-sales-powerbi-dashboard/blob/main/Retail%20Sales%20Overview.png)
 
 **Isi:** KPI card (Total Revenue, Total Orders), tren revenue bulanan, dan top 20 produk terlaris.
 
